@@ -1,0 +1,6 @@
+Kris Amoateng (ID: 101): Score = 84, Grade = A
+Alexander Arnorld (ID: 102): Score = 72, Grade = B
+Napoleon Bonaparte (ID: 103): Score = 65, Grade = C
+Simons (ID: 104): Score = 58, Grade = D
+John Wick (ID: 105): Score = 49, Grade = F
+

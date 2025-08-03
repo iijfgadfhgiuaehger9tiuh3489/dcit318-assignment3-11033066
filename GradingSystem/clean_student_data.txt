@@ -1,0 +1,5 @@
+101,Kris Amoateng,84
+102,Alexander Arnorld,72
+103,Napoleon Bonaparte,65
+104,Simons,58
+105,John Wick,49
